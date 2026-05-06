@@ -1,16 +1,34 @@
-## Hi there 👋
+# Santiago Pajuelo
 
-<!--
-**phuru7/phuru7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior DevOps & Cloud Engineer based in Lima, Perú.
 
-Here are some ideas to get you started:
+Currently at **Tech and Solve**, contracted for **Doters** — the loyalty platform of Viva Aerobús — building and operating cloud infrastructure on AWS for a fintech/loyalty ecosystem at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I do
+
+- Design and operate cloud infrastructure on AWS (EKS, RDS, EC2, S3, Lambda, VPC)
+- Build and maintain CI/CD pipelines — GitLab, Jenkins, Azure DevOps
+- Infrastructure as Code with Terraform and AWS CDK
+- Security hardening: WAF, GuardDuty, SonarQube, Trivy, Sonatype, Secrets Manager
+- Observability with DataDog across microservices environments
+
+---
+
+### Stack
+
+`AWS` `Azure` `Kubernetes` `Terraform` `Docker` `Ansible`  
+`GitLab CI` `Jenkins` `Python` `Shell` `RHEL`
+
+---
+
+### Certifications
+
+- AZ-104 · AZ-204 · AZ-500 — Microsoft Azure
+- Terraform Associate 003
+- LPIC-1 Linux · CCNA 200-301
+
+---
+
+[linkedin.com/in/phuru](https://linkedin.com/in/phuru) · [santiago@phuru.io](mailto:santiago@phuru.io)
